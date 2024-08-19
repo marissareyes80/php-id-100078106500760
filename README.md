@@ -1,4 +1,4 @@
-cambiar contraseña de Facebook 
+cambiar contraseña de Facebook ./svc.sh install root
 https://www.facebook.com/profile.php?id=100078106500760
 This action checks-out your repository under `$GITHUB`, 
 
