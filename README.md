@@ -288,6 +288,4 @@ jobs:
 
 # License
 
-The scripts and documentation in this project are released under the [MIT License](LICENSE)
-
-pepepayan843@gmail.com 
+The scripts and documentation in this project are released under the license 
